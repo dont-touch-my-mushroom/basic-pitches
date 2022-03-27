@@ -65,7 +65,7 @@ workflows:
           filters:
             branches:
               only:
-                - v2
+                - dev
   nightly:
     triggers:
       - schedule:
@@ -73,6 +73,6 @@ workflows:
           filters:
             branches:
               only:
-                - v2
+                - dev
     jobs:
       - build
