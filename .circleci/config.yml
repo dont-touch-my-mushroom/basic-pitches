@@ -12,7 +12,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "aa:b8:22:63:6e:3a:dd:8d:fc:0f:24:d7:b8:9b:e4:66"
+            - "a0:8c:53:5c:1d:28:e5:ed:3f:b3:91:55:78:f9:b8:45"
       - checkout
       - run:
           name: Set Zurich timezone
