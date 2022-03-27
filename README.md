@@ -1,7 +1,7 @@
 # Source code for [Basic Pitches' website](https://basicpit.ch)
-Please use branch `v2` for development. Branch `master` will be used for serving.
+Please use branch `dev` for development. Branch `master` will be used for serving.
 
-Every time there is a push to the branch `v2` a circleci job will build and deploy a new version (to master).
+Every time there is a push to the branch `dev` a circleci job will build and deploy a new version (to master).
 
 ## Local development
 There are two easy ways to develop locally, using docker.
@@ -25,7 +25,7 @@ bundle update
 
 ## Circleci
 We have a Circleci project set up to build and deploy a new page every time...
-- The branch V2 has a push.
+- The branch `dev` has a push.
 - Every night.
 
 If you change anything on the gems and want to check if it will still build then you can try launching the circleci workflow locally by doing
