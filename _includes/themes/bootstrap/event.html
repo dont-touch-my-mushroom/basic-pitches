@@ -1,0 +1,170 @@
+<!-- Post header -->
+<div class="header-style-2">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="event-heading">
+          <h1 class="heading-title ">{{ page.title }}
+            {% if page.categories contains "show" %}
+              <h4 class="sub-title"> - Improv show </h4>
+            {% elsif page.instructor %}
+              <h4 class="sub-title"> with {{page.instructor}} </h4>
+            {% endif %}
+          </h1>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-8">
+        {% if page.img %}<figure>
+          <img src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="{{ page.title }}">
+        </figure>{% endif %}
+      </div>
+
+      <div class="col-sm-12 col-md-4 align-middle">
+        <div class="vertical-flexer"></div>
+        <div class="blog-block about-sidebar-widget white-background">
+          <h4 class="contact-info-title">Event Information</h4>
+          <ul class="contact-info">
+
+            <li>
+              <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+            </li>
+            <li>
+              <i class="fa fa-clock-o icons cyan-color contact-info-icon"></i>
+              <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
+                {% if !page.time %}
+                  {{ page.time }}
+                {% else %}
+                  {{ page.date | date: "%H:%M"  }} {% if page.time_end %} - {{ page.time_end }} {% endif %}
+                {% endif %}
+
+              </time>
+              {% if page.doors_open %} <p> Doors open at {{ page.doors_open }} </p> {% endif %}
+            </li>
+
+            <li>
+              <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>
+              {%if page.location_url %}
+                <a href="{{page.location_url}}">{{ page.location }}</a>
+              {% else %}
+                {{ page.location }}
+              {% endif %}
+            </li>
+            <li>
+              <i class="fa fa-ticket icons cyan-color contact-info-icon"></i>
+              {% if page.ticket_cost %}
+                {{page.ticket_cost}}
+                {%if page.eventfrog_event %}
+                  <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+                {% else %}
+                  <a href="{{page.ticket_url}}" class="ticket-link">Buy tickets</a>
+                {% endif %}
+              {% else %}
+                Free entrance
+              {% endif %}
+            </li>
+
+            {% if page.facebook %}
+            <li>
+              <a href="{{ page.facebook }}" ><i class="fa fa-facebook icons cyan-color contact-info-icon"></i>
+                Facebook event page</a>
+              </li>
+              {% endif %}
+
+            </ul>
+
+          </div>
+          <div class="vertical-flexer"></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Post content+sidebar -->
+
+  <div class="margin-bottom-40"></div>
+
+  <!-- Blog content + sidebar -->
+  <section id="post" class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-9">
+          {% include ads-block.html %}
+          <div class="mb-60"></div>
+          <h3>Description:</h3>
+          {{ content }}
+
+          {%if page.eventfrog_event %}
+          <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+          {% endif %}
+
+          {% if page.location_iframe %}
+          <div class="mb-60"></div>
+          <iframe src="{{ page.location_iframe }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
+          {% endif %}
+
+
+          <!-- About instructor -->
+                  <div class="mb-60"></div>
+        {% if page.instructor_bio %}
+            <h1 class="heading-title ">About {{page.instructor}}</h1>
+
+              <div class="row blog-block">
+            <div class="col-sm-12 col-md-4 no-padding-sides"><img src="{{ BASE_PATH }}/assets/images/{{page.instructor_img}}" alt="{{page.instructor}}"></div>
+            <div class="col-sm-12 col-md-8 align-middle">
+            <div class="vertical-flexer"></div><p>{{page.instructor_bio}}</p>
+            <div class="vertical-flexer"></div></div>
+</div>
+
+        {% endif %}
+          <!-- end about instructor -->
+
+            <!-- testimonials slider -->
+          {% if page.instructor_review %}
+      <div class="mb-60"></div>
+            <div class="single-testimonial-area">
+              <div id="single-testimonial-item" class="owl-carousel">
+                <!-- Single testimonial Item -->
+                <div class="item">
+                  <div class="row justify-content-md-center">
+                    <div class="col-md-8 col-xs-12 col-md-auto">
+                      <div class="testimonial-inner text-md-center">
+                        <blockquote>
+                          "{{page.instructor_review}}"
+                        </blockquote>
+                        <div class="testimonial-images">
+                          <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/{{page.instructor_face}}" alt="{{page.instructor}}">
+                        </div>
+                        <div class="testimonial-footer">
+                          <i class="fa fa-user"></i> {{page.instructor}}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+            <!-- end testimonial-->
+
+
+
+          {% include ads-block.html %}
+          <div class="mb-60"></div>
+          {% include JB/comments %}
+
+
+
+
+
+
+        </div>
+        <div class="col-sm-12 col-md-3">
+          <div class="mb-60"></div>
+          {% include side-bar.html %}
+        </div>
+      </div>
+    </div>
+  </section>
