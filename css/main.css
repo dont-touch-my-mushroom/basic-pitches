@@ -20,19 +20,21 @@ a:hover {
   text-decoration: underline; }
 
 .bg-default {
-  background: #00a447; }
+  background: #f0176fff; }
 
 .service-box .service-icon i {
-  color: #00a447; }
+  color: #f0176fff; }
 
 .btn-default-filled {
-  background: #00a447; }
+  background: #f0176fff; }
   .btn-default-filled:hover {
-    background: #008A3C;
-    border: 1px solid #008A3C; }
+    background: #f0176fff;
+    border: 1px solid #f0176fff; }
 
 .navbar {
   padding: 0; }
+  .navbar .navbar-brand {
+    padding: 0; }
 
 .navbar-light .navbar-nav .active a:hover {
   color: black; }
@@ -63,7 +65,7 @@ a:hover {
   width: 16px; }
 .contact-info a {
   font-size: 16px;
-  color: #00a447;
+  color: #f0176fff;
   display: inline; }
 
 .map {
