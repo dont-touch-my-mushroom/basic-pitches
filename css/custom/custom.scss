@@ -61,6 +61,10 @@ a:hover {
 
 .navbar {
   padding: 0;
+
+  .navbar-brand {
+    padding: 0;
+  }
 }
 
 .navbar-light .navbar-nav {
