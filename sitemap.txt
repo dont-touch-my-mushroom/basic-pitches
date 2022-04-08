@@ -9,3 +9,5 @@
 /shows
 /sitemap.txt
 /feed.xml
+
+/first_musical

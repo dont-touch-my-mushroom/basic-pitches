@@ -16,6 +16,14 @@ h2 {
 h3 {
   padding-top: 5px; }
 
+#content {
+  padding: 0; }
+
+footer.default-footer {
+  padding: 60px 0; }
+  footer.default-footer a {
+    color: #f0176fff; }
+
 a:hover {
   text-decoration: underline; }
 
@@ -26,10 +34,11 @@ a:hover {
   color: #f0176fff; }
 
 .btn-default-filled {
-  background: #f0176fff; }
+  background: #f0176fff;
+  border-color: #f0176fff; }
   .btn-default-filled:hover {
-    background: #f0176fff;
-    border: 1px solid #f0176fff; }
+    background: #a2124c;
+    border: 1px solid #a2124c; }
 
 .navbar {
   padding: 0; }

@@ -5,10 +5,26 @@
         <description>Basic Pitches - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2022-04-08T00:08:31+00:00</lastBuildDate>
-        <pubDate>2022-04-08T00:08:31+00:00</pubDate>
+        <lastBuildDate>2022-04-08T19:19:19+00:00</lastBuildDate>
+        <pubDate>2022-04-08T19:19:19+00:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Basic Musical</title>
+                <description>&lt;p&gt;A whole musical being improvised in front of your eyes!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Have you ever heard of Hamilton? What about Cats? Maybe Grease? Well, this is nothing like that.
+We are going to develop a whole story from your suggestions. It will be full of emotions and epic songs.&lt;/p&gt;
+
+&lt;p&gt;We are Basic Pitches!&lt;/p&gt;
+</description>
+                <link>/first_musical</link>
+                <guid>/first_musical</guid>
+                <pubDate>2022-05-13T20:00:00+00:00</pubDate>
+        </item>
 
 
 </channel>
