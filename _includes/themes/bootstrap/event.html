@@ -6,7 +6,7 @@
         <div class="event-heading">
           <h1 class="heading-title ">{{ page.title }}
             {% if page.categories contains "show" %}
-              <h4 class="sub-title"> - Improv show </h4>
+              <h4 class="sub-title"> - Musical Improv show </h4>
             {% elsif page.instructor %}
               <h4 class="sub-title"> with {{page.instructor}} </h4>
             {% endif %}
@@ -55,8 +55,6 @@
                 {{page.ticket_cost}}
                 {%if page.eventfrog_event %}
                   <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
-                {% else %}
-                  <a href="{{page.ticket_url}}" class="ticket-link">Buy tickets</a>
                 {% endif %}
               {% else %}
                 Free entrance
