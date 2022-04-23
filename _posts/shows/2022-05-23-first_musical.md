@@ -23,3 +23,6 @@ Have you ever heard of Hamilton? What about Cats? Maybe Grease? Well, this is no
 We are going to develop a whole story from your suggestions. It will be full of emotions and epic songs.
 
 We are Basic Pitches!
+
+The money we collect from this show will be donated to [Nova Ukraine](https://novaukraine.org/), a
+nonprofit organization  providing humanitarian aid to Ukraine.
