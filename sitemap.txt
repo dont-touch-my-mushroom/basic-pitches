@@ -10,4 +10,5 @@
 /sitemap.txt
 /feed.xml
 
+/double_show
 /first_musical
