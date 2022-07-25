@@ -4,12 +4,22 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-07-22T00:08:51+00:00</updated>
+ <updated>2022-07-25T19:23:53+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Musical Improv Weekend</title>
+   <link href="http://localhost:4000/baby_wants_candy"/>
+   <id>http://localhost:4000/baby_wants_candy</id>
+   <updated>2022-09-03T10:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;BWC is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Based on BWC’s signature form- a one hour, completely improvised musical with a full band, participants will learn how to:&lt;/p&gt; &lt;p&gt;Create musical narratives while still maintaining the funny&lt;/p&gt; &lt;p&gt;Use the game of...</content>
+ </entry>
 
  
 
@@ -29,6 +39,16 @@
    <id>http://localhost:4000/first_musical</id>
    <updated>2022-05-13T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;A whole musical being improvised in front of your eyes!&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;Have you ever heard of Hamilton? What about Cats? Maybe Grease? Well, this is nothing like that. We are going to develop a whole story from your suggestions. It will be full of emotions and epic songs.&lt;/p&gt; &lt;p&gt;We are...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Online workshop: One offer at a time</title>
+   <link href="http://localhost:4000/stephen"/>
+   <id>http://localhost:4000/stephen</id>
+   <updated>2020-03-24T19:30:00+00:00</updated>
+   <content type="html">&lt;p&gt;No virus is going to keep us from doing Improv! Now that most of us are secluded at home we should adapt and do things that keep us sane.&lt;!--more--&gt; I would go insane without improv and so we decided to contact international improvisers to give us workshops through VC. The...</content>
  </entry>
 
  

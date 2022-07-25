@@ -8,7 +8,10 @@
 /rss.xml
 /shows
 /sitemap.txt
+/workshops
 /feed.xml
 
+/baby_wants_candy
 /double_show
 /first_musical
+/stephen
