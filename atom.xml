@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-08-03T00:08:44+00:00</updated>
+ <updated>2022-08-03T07:48:18+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/baby_wants_candy"/>
    <id>http://localhost:4000/baby_wants_candy</id>
    <updated>2022-09-03T10:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;BWC is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Based on BWC’s signature form- a one hour, completely improvised musical with a full band, participants will learn how to:&lt;/p&gt; &lt;p&gt;Create musical narratives while still maintaining the funny&lt;/p&gt; &lt;p&gt;Use the game of...</content>
+   <content type="html">&lt;p&gt;Baby Wants Candy (BWC) is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Based on BWC’s signature form- a one hour, completely improvised musical with a full band, participants will learn how to:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Create musical narratives while still maintaining the...</content>
  </entry>
 
  
