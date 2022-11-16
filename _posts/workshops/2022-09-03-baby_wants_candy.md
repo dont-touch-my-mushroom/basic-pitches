@@ -20,7 +20,6 @@ instructor_bio: "Baby Wants Candy ('Truly Amazing! Critics Pick' New York Times,
 instructor_link: "http://www.babywantscandy.com/"
 instructor_face: ""
 instructor_img: "BWC_promo.jpg"
-#instructor_review: "In this time of isolation, Jon put his front foot forward and put together an online workshop. He was organized and had everything ready so we could just jump into the work. It was such a great experience to work with the talented group that Jon provided. Just don't touch the mushroom."
 eventfrog_event: "6960496507133781474"
 ---
 Baby Wants Candy (BWC) is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.<!--more-->
