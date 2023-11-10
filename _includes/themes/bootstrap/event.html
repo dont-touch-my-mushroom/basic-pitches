@@ -57,8 +57,8 @@
               {% if page.ticket_cost %}
                 {{page.ticket_cost}}
                 {%if page.eventfrog_event %}
-                  <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
-                {% endif %}
+                  <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/en/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+                {% else %}
               {% else %}
                 Free entrance
               {% endif %}
@@ -96,7 +96,7 @@
           {{ content }}
 
           {%if page.eventfrog_event %}
-          <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+          <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/en/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
           {% endif %}
 
           {% if page.location_iframe %}
