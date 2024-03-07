@@ -31,23 +31,23 @@ jobs:
             git fetch
             git branch -f master origin/master
       - run:
-          name: Clear publish directory
-          command: rm -rf publish
+          name: Clear publish2 directory
+          command: rm -rf publish2
       - run:
           name: Cone the master branch to publish
           command: |
             git fetch
-            git clone -l -b master . publish
+            git clone -l -b master . publish2
       - run:
           name: Merge the built files with master.
-          command: rsync -rvLk --exclude='.git'--delete tmp/ publish
+          command: rsync -rvLk --exclude='.git'--delete tmp/ publish2
       - run:
           name: Copy the circleci configuration to master to prevent extra builds.
           command: rsync -rvLk .circleci publish/
       - run:
           name: push the files in publish to master
           command: |
-            cd publish
+            cd publish2
             echo ../CNAME CNAME
             git config --global user.email "conan747@circleci.com"
             git config --global user.name "circleci"
