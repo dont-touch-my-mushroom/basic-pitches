@@ -34,7 +34,7 @@ jobs:
           name: Clear publish2 directory
           command: rm -rf publish2
       - run:
-          name: Cone the master branch to publish
+          name: Cone the master branch to publish. This step was failing.
           command: |
             git fetch
             git clone -l -b master . publish2
