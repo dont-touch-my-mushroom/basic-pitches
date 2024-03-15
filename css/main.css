@@ -1,0 +1,120 @@
+/*
+ * Emerald is a simple blog theme built for Jekyll.
+ */
+/*- Base reset -*/
+/*- Typography -*/
+/* -- General Layout -- */
+/* Navigation */
+/*
+ * A Github stylesheet to highlight code snippet
+ * https://github.com/mojombo/tpw/blob/master/css/syntax.css
+ */
+/*- Custom style -*/
+h2 {
+  padding-top: 15px; }
+
+h3 {
+  padding-top: 5px; }
+
+#content {
+  padding: 0; }
+
+footer.default-footer {
+  padding: 60px 0; }
+  footer.default-footer a {
+    color: #f0176fff; }
+
+a:hover {
+  text-decoration: underline; }
+
+.bg-default {
+  background: #f0176fff; }
+
+.service-box .service-icon i {
+  color: #f0176fff; }
+
+.btn-default-filled {
+  background: #f0176fff;
+  border-color: #f0176fff; }
+  .btn-default-filled:hover {
+    background: #a2124c;
+    border: 1px solid #a2124c; }
+
+.navbar {
+  padding: 0; }
+  .navbar .navbar-brand {
+    padding: 0; }
+
+.navbar-light .navbar-nav .active a:hover {
+  color: black; }
+.navbar-light .navbar-nav .nav-link {
+  color: white; }
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: black; }
+
+.align-middle {
+  display: grid; }
+
+.event-heading {
+  margin-bottom: 20px; }
+  .event-heading h1 {
+    display: inline; }
+  .event-heading h4 {
+    display: inline; }
+
+.white-background {
+  background-color: white; }
+
+.contact-info p {
+  margin-left: 30px; }
+.contact-info li {
+  margin-bottom: 15px; }
+.contact-info i {
+  margin-right: 10px;
+  width: 16px; }
+.contact-info a {
+  font-size: 16px;
+  color: #f0176fff;
+  display: inline; }
+
+.map {
+  width: 100%;
+  min-height: 450px; }
+
+.side-bar a img {
+  padding: 10px; }
+
+.single-testimonial-area .testimonial-inner blockquote {
+  font-size: 18px; }
+
+.blog-posts-widget {
+  margin-bottom: 5px; }
+
+.about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
+  padding-left: 20px; }
+
+.no-padding-sides {
+  padding-left: 0;
+  padding-right: 0; }
+
+.logo-container {
+  text-align: center; }
+  .logo-container .page-logo {
+    max-height: 400px;
+    width: unset; }
+
+.video-embed {
+  margin: 40px;
+  text-align: center; }
+
+.page ul li {
+  list-style-type: circle;
+  list-style-position: inside;
+  padding: 5px 20px; }
+
+.contact-info .ticket-link {
+  display: block;
+  margin-top: 10px; }
+
+.hero-content-v2 a {
+  margin-bottom: 20px; }
