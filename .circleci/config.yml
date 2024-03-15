@@ -38,6 +38,8 @@ jobs:
           command: |
             git fetch
             git clone -l -b publish . publish
+            git status
+            git checkout -f HEAD
       - run:
           name: Merge the built files with publish.
           command: rsync -rvLk --exclude='.git'--delete tmp/ publish
