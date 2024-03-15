@@ -36,3 +36,5 @@ circleci local execute -c process.yml --job build
 It will probably error when trying to pull from git. That's fine, it doesn't
 have the proper keys to do that. The important thing is that it builds the
 jekyll page, which happens before.
+
+publish branch
