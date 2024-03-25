@@ -37,7 +37,7 @@ jobs:
           name: Cone the publish branch to publish. This step was failing.
           command: |
             git fetch
-            git clone -l -b publish . publish || git status
+            git clone -l -b publish . publish ||  git status
             git checkout -f HEAD
       - run:
           name: Merge the built files with publish.

@@ -4,12 +4,32 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-03-25T00:09:04+00:00</updated>
+ <updated>2024-03-25T19:55:54+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Improv is Back</title>
+   <link href="http://localhost:4000/impro-is-back"/>
+   <id>http://localhost:4000/impro-is-back</id>
+   <updated>2024-04-19T19:30:00+00:00</updated>
+   <content type="html">&lt;p&gt;Let’s celebrate the return of IMPROV to jenseits IM VIADUKT&lt;!--more--&gt; with a glorious double feature of English improv and musical improv! «&lt;a href=&quot;https://dont-tou.ch&quot;&gt;Don’t Touch My Mushroom&lt;/a&gt;» present a surprising fully improvised theatre show with scenes never seen before. Emotions, drama, fun and everything in between.&lt;/p&gt; &lt;p&gt;«&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;» present a...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Improv is Back</title>
+   <link href="http://localhost:4000/dynamo_apr_2024"/>
+   <id>http://localhost:4000/dynamo_apr_2024</id>
+   <updated>2024-04-10T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Let’s celebrate the return of IMPROV to jenseits IM VIADUKT&lt;!--more--&gt; with a glorious double feature of English improv and musical improv! «&lt;a href=&quot;https://dont-tou.ch&quot;&gt;Don’t Touch My Mushroom&lt;/a&gt;» present a surprising fully improvised theatre show with scenes never seen before. Emotions, drama, fun and everything in between.&lt;/p&gt; &lt;p&gt;«&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;» present a...</content>
+ </entry>
 
  
 
@@ -102,26 +122,6 @@
    <id>http://localhost:4000/musical_2</id>
    <updated>2023-03-17T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Experience the power of music as it is created on the spot with no prior planning. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Come join us to the incredible improvised musical show by Basic Pitches! This dynamic and talented group of performers will be taking the stage at Theater Ida in Zurich, delighting audiences with their...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improvised Musical</title>
-   <link href="http://localhost:4000/musical_1"/>
-   <id>http://localhost:4000/musical_1</id>
-   <updated>2023-03-03T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Experience the power of music as it is created on the spot with no prior planning. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Come join us to the incredible improvised musical show by Basic Pitches! This dynamic and talented group of performers will be taking the stage at Theater Ida in Zurich, delighting audiences with their...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Musical Improv Weekend</title>
-   <link href="http://localhost:4000/baby_wants_candy"/>
-   <id>http://localhost:4000/baby_wants_candy</id>
-   <updated>2022-09-03T10:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Baby Wants Candy (BWC) is thrilled to lead a two day music improv intensive in Switzerland. No musical improv experience needed.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Based on BWC’s signature form- a one hour, completely improvised musical with a full band, participants will learn how to:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Create musical narratives while still maintaining the...</content>
  </entry>
 
  

@@ -11,6 +11,8 @@
 /feed.xml
 /page2/
 
+/impro-is-back
+/dynamo_apr_2024
 /dynamo_mar_2024
 /dynamo_jan_24
 /dynamusical_2023
