@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-04-09T00:09:02+00:00</updated>
+ <updated>2024-04-09T13:01:44+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -28,10 +28,7 @@
    <link href="http://localhost:4000/dynamo_apr_2024"/>
    <id>http://localhost:4000/dynamo_apr_2024</id>
    <updated>2024-04-10T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;We present a musical show like no other!&lt;!--more--&gt;  Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions.&lt;/p&gt;
-
-&lt;p&gt;Don’t miss out on a truly imaginative, funny, touching, co-created and most of all enjoyable evening.&lt;/p&gt;
-</content>
+   <content type="html">&lt;div class=&quot;massage-box alert-warning&quot;&gt; &lt;strong&gt; &lt;i class=&quot;fa fa-exclamation-triangle&quot;&gt;&lt;/i&gt; This show has been cancelled due to illness. &lt;/strong&gt; &lt;p&gt;We will see you on stage again [next week](https://basicpit.ch/impro-is-back)!&lt;/p&gt; &lt;/div&gt; &lt;p&gt;We present a musical show like no other!&lt;!--more--&gt; Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience...</content>
  </entry>
 
  
