@@ -12,6 +12,7 @@
 /page2/
 
 /milquetoast_may_2024
+/stars_may_2024
 /impro-is-back
 /dynamo_apr_2024
 /dynamo_mar_2024

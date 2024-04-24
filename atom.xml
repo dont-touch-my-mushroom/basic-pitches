@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-04-24T19:21:19+00:00</updated>
+ <updated>2024-04-24T19:26:52+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -19,6 +19,16 @@
    <id>http://localhost:4000/milquetoast_may_2024</id>
    <updated>2024-05-15T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Serving you up a double helping of English Improv&lt;!--more--&gt; with a double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Zurich Impro Stars</title>
+   <link href="http://localhost:4000/stars_may_2024"/>
+   <id>http://localhost:4000/stars_may_2024</id>
+   <updated>2024-05-08T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;🌟 Exciting News! 🌟&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Join us for a night of laughter and creativity at “Zurich Impro Stars” on May 8th, 2024, at Grosser Saal @dynamo_zuerich! Save the Date: May 8th, 2024 📍 Location: Grosser Saal @dynamo_zuerich. Don’t miss out on talented improv groups showcasing their skills! Spread the word and...</content>
  </entry>
 
  
@@ -112,16 +122,6 @@
    <id>http://localhost:4000/dynamo_2023</id>
    <updated>2023-04-12T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;In the first half there is an open stage&lt;!--more--&gt;: come, watch or jump on stage with us, you decide! We play our (and your?) favourite short-form games.&lt;/p&gt; &lt;p&gt;In the second half, we play an improvised musical for you! An evening full of magic and fun is guaranteed! Tickets are available...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improvised Musical</title>
-   <link href="http://localhost:4000/musical_3"/>
-   <id>http://localhost:4000/musical_3</id>
-   <updated>2023-03-31T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Experience the power of music as it is created on the spot with no prior planning. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Come join us to the incredible improvised musical show by Basic Pitches! This dynamic and talented group of performers will be taking the stage at Theater Ida in Zurich, delighting audiences with their...</content>
  </entry>
 
  
