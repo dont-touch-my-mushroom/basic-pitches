@@ -1,0 +1,23 @@
+---
+layout: event
+title:  "Double feature - Basic Pitches + Milquetoast"
+date:   2024-05-15T20:00:00CEST
+doors_open: "19:30"
+time_end: "22:00"
+location: dynamo
+tags: [show, guest]
+categories: show
+ticket_cost: "15 CHF (12CHF for students)"
+#ticket_url: "https://eventfrog.ch/de/p/theater-buehne/theater/the-stranger-by-don-t-touch-my-mushrooms-7056256507122164470.html"
+img : 2024-05-15-milquetoast_may_2024.jpg
+# facebook: "https://www.facebook.com/events/1088341298623039/"
+location_iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.4626852746237!2d8.537193416230004!3d47.3834046113615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a0b8801f73f%3A0x4e8ed220e9531140!2sJugendkulturhaus%20Dynamo!5e0!3m2!1sen!2sch!4v1645903128357!5m2!1sen!2sch"
+eventfrog_event: "7188979069475563553"
+
+---
+Serving you up a double helping of English Improv<!--more--> with a double feature! Two improv groups will take the stage:
+
+- [Basic Pitches](https://basicpit.ch): A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to be missed!
+
+- [Milquetoast](https://milquetoast.ch): A group of improvisers who are not afraid to take risks and explore the unknown. They will take you on a journey through the unexpected and the absurd.
+ 
