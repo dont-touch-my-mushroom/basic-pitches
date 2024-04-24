@@ -4,12 +4,22 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-04-24T00:09:03+00:00</updated>
+ <updated>2024-04-24T19:21:19+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Double feature - Basic Pitches + Milquetoast</title>
+   <link href="http://localhost:4000/milquetoast_may_2024"/>
+   <id>http://localhost:4000/milquetoast_may_2024</id>
+   <updated>2024-05-15T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Serving you up a double helping of English Improv&lt;!--more--&gt; with a double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to...</content>
+ </entry>
 
  
 
@@ -111,16 +121,6 @@
    <link href="http://localhost:4000/musical_3"/>
    <id>http://localhost:4000/musical_3</id>
    <updated>2023-03-31T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Experience the power of music as it is created on the spot with no prior planning. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Come join us to the incredible improvised musical show by Basic Pitches! This dynamic and talented group of performers will be taking the stage at Theater Ida in Zurich, delighting audiences with their...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improvised Musical</title>
-   <link href="http://localhost:4000/musical_2"/>
-   <id>http://localhost:4000/musical_2</id>
-   <updated>2023-03-17T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Experience the power of music as it is created on the spot with no prior planning. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Come join us to the incredible improvised musical show by Basic Pitches! This dynamic and talented group of performers will be taking the stage at Theater Ida in Zurich, delighting audiences with their...</content>
  </entry>
 
