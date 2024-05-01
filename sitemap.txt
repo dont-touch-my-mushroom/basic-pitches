@@ -10,7 +10,9 @@
 /workshops
 /feed.xml
 /page2/
+/page3/
 
+/MC_Hammersmith_2024
 /milquetoast_may_2024
 /stars_may_2024
 /impro-is-back

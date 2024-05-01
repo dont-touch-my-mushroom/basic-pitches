@@ -4,12 +4,22 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-05-01T00:08:49+00:00</updated>
+ <updated>2024-05-01T17:12:05+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Introduction to Rhyming in Musical Improv</title>
+   <link href="http://localhost:4000/MC_Hammersmith_2024"/>
+   <id>http://localhost:4000/MC_Hammersmith_2024</id>
+   <updated>2024-05-25T14:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Feel like you can’t rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!&lt;/p&gt; &lt;p&gt;In three hours, we will cover the basic building blocks of improvised rhymes!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;How to find your flow&lt;/li&gt; &lt;li&gt;How to stay calm&lt;/li&gt; &lt;li&gt;How to successfully rhyme and land...</content>
+ </entry>
 
  
 
@@ -112,16 +122,6 @@
    <id>http://localhost:4000/open_jam</id>
    <updated>2023-09-20T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Join us for a night of musical innovation and interactive fun!&lt;!--more--&gt; The show is set to unravel in two exciting halves:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Musical Improv&lt;/strong&gt;: Basic Pitches will captivate audiences with their spontaneous creation of a full musical!&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Open Jam with Improv Games&lt;/strong&gt;: Feeling inspired? Here’s your chance...</content>
- </entry>
-
- 
-
- <entry>
-   <title>English Open Stage & Musical</title>
-   <link href="http://localhost:4000/dynamo_2023"/>
-   <id>http://localhost:4000/dynamo_2023</id>
-   <updated>2023-04-12T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;In the first half there is an open stage&lt;!--more--&gt;: come, watch or jump on stage with us, you decide! We play our (and your?) favourite short-form games.&lt;/p&gt; &lt;p&gt;In the second half, we play an improvised musical for you! An evening full of magic and fun is guaranteed! Tickets are available...</content>
  </entry>
 
  
