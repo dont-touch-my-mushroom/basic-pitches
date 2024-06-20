@@ -12,6 +12,7 @@
 /page2/
 /page3/
 
+/rio_july_2024
 /MC_Hammersmith_2024
 /milquetoast_may_2024
 /stars_may_2024
