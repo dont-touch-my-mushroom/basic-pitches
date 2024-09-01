@@ -33,7 +33,7 @@ instructor_face: "Will 31.webp"
 instructor_img: "Will 31.webp"
 eventfrog_event: "7191480084523319908"
 ---
-Feel like you can't rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!
+Feel like you can't rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!<!--more-->
 
 In three hours, we will cover the basic building blocks of improvised rhymes!
 
