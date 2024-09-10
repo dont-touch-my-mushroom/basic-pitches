@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-09-10T00:09:02+00:00</updated>
+ <updated>2024-09-10T20:21:15+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,11 +14,14 @@
  
 
  <entry>
-   <title>Basic Pitches: A musical show like no other!</title>
+   <title>Open Rehearsal</title>
    <link href="http://localhost:4000/dynamo_sep_2024"/>
    <id>http://localhost:4000/dynamo_sep_2024</id>
    <updated>2024-09-17T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Join us for an unforgettable night of musical improvisation!&lt;!--more--&gt; Watch as talented actors weave captivating stories and sing heartfelt melodies right before your eyes. With no script and no rehearsal, every performance is a unique and exciting adventure. Don’t miss this chance to witness the magic of live theater!&lt;/p&gt; &lt;p&gt;Join...</content>
+   <content type="html">&lt;p&gt;Try out singing together&lt;!--more--&gt; with us! We will be doing some musical improv exercises and games.&lt;/p&gt;
+
+&lt;p&gt;No experience neeeded, just come and have fun with us!&lt;/p&gt;
+</content>
  </entry>
 
  
@@ -38,7 +41,7 @@
    <link href="http://localhost:4000/MC_Hammersmith_2024"/>
    <id>http://localhost:4000/MC_Hammersmith_2024</id>
    <updated>2024-05-25T14:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Feel like you can’t rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!&lt;/p&gt; &lt;p&gt;In three hours, we will cover the basic building blocks of improvised rhymes!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;How to find your flow&lt;/li&gt; &lt;li&gt;How to stay calm&lt;/li&gt; &lt;li&gt;How to successfully rhyme and land...</content>
+   <content type="html">&lt;p&gt;Feel like you can’t rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;In three hours, we will cover the basic building blocks of improvised rhymes!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;How to find your flow&lt;/li&gt; &lt;li&gt;How to stay calm&lt;/li&gt; &lt;li&gt;How to successfully rhyme and land...</content>
  </entry>
 
  
