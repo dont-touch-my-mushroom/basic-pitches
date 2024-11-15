@@ -12,6 +12,7 @@
 /page2/
 /page3/
 
+/dynamo_nov_2024
 /dynamo_oct_2024
 /dynamo_sep_2024
 /rio_july_2024
