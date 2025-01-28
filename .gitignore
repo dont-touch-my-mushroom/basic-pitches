@@ -7,3 +7,4 @@ publish
 vendor
 process.yml
 .vscode
+.history
