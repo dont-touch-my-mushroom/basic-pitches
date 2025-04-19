@@ -4,12 +4,22 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-04-19T00:09:15+00:00</updated>
+ <updated>2025-04-19T13:29:31+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Double feature - Basic Pitches + Stuba Productions</title>
+   <link href="http://localhost:4000/dynamo_may_2025"/>
+   <id>http://localhost:4000/dynamo_may_2025</id>
+   <updated>2025-05-07T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Step into a world of glitter, glamour, and completely improvised fun!&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Moulimprov Rouge brings you a dazzling night of unscripted scenes and spontaneous songs, all with a touch of Parisian flair. Zürich’s own Basic Pitches join forces with the brilliant Stuba Productions to create a whirlwind of romance, comedy, and...</content>
+ </entry>
 
  
 
@@ -109,16 +119,6 @@
    <id>http://localhost:4000/milquetoast_may_2024</id>
    <updated>2024-05-15T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Serving you up a double helping of English Improv&lt;!--more--&gt; with a double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Zurich Impro Stars</title>
-   <link href="http://localhost:4000/stars_may_2024"/>
-   <id>http://localhost:4000/stars_may_2024</id>
-   <updated>2024-05-08T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;🌟 Exciting News! 🌟&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Join us for a night of laughter and creativity at “Zurich Impro Stars” on May 8th, 2024, at Grosser Saal @dynamo_zuerich! Save the Date: May 8th, 2024 📍 Location: Grosser Saal @dynamo_zuerich. Don’t miss out on talented improv groups showcasing their skills! Spread the word and...</content>
  </entry>
 
  

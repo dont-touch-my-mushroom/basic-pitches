@@ -11,7 +11,9 @@
 /feed.xml
 /page2/
 /page3/
+/page4/
 
+/dynamo_may_2025
 /dynamo_april_2025
 /dynamo_march_2025
 /dynamo_feb_2025
