@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-06-03T00:09:04+00:00</updated>
+ <updated>2025-06-03T17:02:56+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -15,13 +15,23 @@
 
  <entry>
    <title>BASIC PITCHES - The Flicker Effect</title>
-   <link href="http://localhost:4000/dynamo_june_2025"/>
-   <id>http://localhost:4000/dynamo_june_2025</id>
-   <updated>2025-06-11T20:00:00+00:00</updated>
+   <link href="http://localhost:4000/dynamo_july_2025"/>
+   <id>http://localhost:4000/dynamo_july_2025</id>
+   <updated>2025-07-02T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The Flicker Effect - Join us for a one-of-a-kind evening where anything can happen!&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Basic Pitches, Zürich’s favorite musical improv ensemble, will take the stage for a night of on-the-spot stories, melodies, and mayhem—crafted entirely in the moment.&lt;/p&gt;
 </content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Zurich Improv Comedy Festival</title>
+   <link href="http://localhost:4000/festival_june_2025"/>
+   <id>http://localhost:4000/festival_june_2025</id>
+   <updated>2025-06-21T19:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Basic Pitches in the Zurich Improv Comedy Festival 2025&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Festival info: Zurich Improv Comedy Festival 2025&lt;/p&gt; &lt;p&gt;The 50’s - “Some Like It Hot”&lt;/p&gt; &lt;p&gt;SATURDAY 21 JUNE @CET:&lt;/p&gt; &lt;p&gt;We’ve invited 8 local groups to join the second edition of the Zurich Improv Comedy Festival - “The 50’s”!&lt;/p&gt; &lt;p&gt;4 groups on...</content>
  </entry>
 
  
@@ -112,16 +122,6 @@
    <id>http://localhost:4000/rio_july_2024</id>
    <updated>2024-07-10T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Serving you up a double helping of English Improv&lt;!--more--&gt; with a double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Introduction to Rhyming in Musical Improv</title>
-   <link href="http://localhost:4000/MC_Hammersmith_2024"/>
-   <id>http://localhost:4000/MC_Hammersmith_2024</id>
-   <updated>2024-05-25T14:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Feel like you can’t rhyme when improvising songs? Keep getting stuck down rhyming dead ends? This is the workshop for you!&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;In three hours, we will cover the basic building blocks of improvised rhymes!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;How to find your flow&lt;/li&gt; &lt;li&gt;How to stay calm&lt;/li&gt; &lt;li&gt;How to successfully rhyme and land...</content>
  </entry>
 
  
