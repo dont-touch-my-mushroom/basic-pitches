@@ -4,12 +4,22 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-08-11T00:08:56+00:00</updated>
+ <updated>2025-08-11T08:20:53+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>BASIC PITCHES - My Big Hilarious Greek Tragedy</title>
+   <link href="http://localhost:4000/dynamo_aug_2025"/>
+   <id>http://localhost:4000/dynamo_aug_2025</id>
+   <updated>2025-08-29T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The gods have spoken — the Basic Pitches are back! And this time, we’re going full Greek. 🍇🎤&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;The improvised musicals season starts with a toga-worthy bang! (Yes — we’re back from the summer pause and ready to belt out drama like the ancient legends we are.)&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;💥 FREE...</content>
+ </entry>
 
  
 
@@ -112,16 +122,6 @@
 
 &lt;p&gt;No experience neeeded, just come and have fun with us!&lt;/p&gt;
 </content>
- </entry>
-
- 
-
- <entry>
-   <title>Double feature - Basic Pitches + Rio</title>
-   <link href="http://localhost:4000/rio_july_2024"/>
-   <id>http://localhost:4000/rio_july_2024</id>
-   <updated>2024-07-10T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Serving you up a double helping of English Improv&lt;!--more--&gt; with a double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions. Not to...</content>
  </entry>
 
  
