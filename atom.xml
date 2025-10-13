@@ -4,7 +4,7 @@
  <title>Basic Pitches</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2025-10-13T00:09:16+00:00</updated>
+ <updated>2025-10-13T08:12:47+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -14,9 +14,19 @@
  
 
  <entry>
+   <title>PITCH BLACK - An Improvised Film Noir Musical</title>
+   <link href="http://localhost:4000/dynamo_nov_2025"/>
+   <id>http://localhost:4000/dynamo_nov_2025</id>
+   <updated>2025-11-26T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Dark streets. Dangerous secrets. And… spontaneous singing? 🎶&lt;!--more--&gt; Step into a smoky world of mystery, where every song, every crime, and every heartbreak is made up on the spot.&lt;/p&gt; &lt;p&gt;The Basic Pitches bring you PITCH BLACK — a completely improvised film noir musical where the only script is your imagination....</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>BASIC PITCHES - Back to the Basics + Hoi Polloi</title>
-   <link href="http://localhost:4000/dynamo_sept_2025-copy"/>
-   <id>http://localhost:4000/dynamo_sept_2025 copy</id>
+   <link href="http://localhost:4000/dynamo_sept_2025"/>
+   <id>http://localhost:4000/dynamo_sept_2025</id>
    <updated>2025-09-17T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Forget about “Wake Me Up When September Ends”&lt;!--more--&gt; – this September, we’re keeping you wide awake with laughter, music, and spontaneous theatre magic! 🎶✨&lt;/p&gt; &lt;p&gt;In a unique two liner, you’ll have the pleasure to see:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Hoi Polloi&lt;/strong&gt; Presents: From the Ground Up Year 4. New moves. New faces. Same promise:...</content>
  </entry>
@@ -109,16 +119,6 @@
 
 &lt;p&gt;No experience neeeded, just come and have fun with us!&lt;/p&gt;
 </content>
- </entry>
-
- 
-
- <entry>
-   <title>Halloween Musical</title>
-   <link href="http://localhost:4000/dynamo_oct_2024"/>
-   <id>http://localhost:4000/dynamo_oct_2024</id>
-   <updated>2024-10-24T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Get ready for a frightfully fun night of improvised musical comedy!&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Our talented improvisers will conjure up a spine-chilling musical based entirely on your spooky suggestions. Expect ghostly ballads, zombie rock anthems, and more undead delights.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;: A musical show like no other! Basic Pitches will...</content>
  </entry>
 
  

@@ -13,7 +13,8 @@
 /page3/
 /page4/
 
-/dynamo_sept_2025-copy
+/dynamo_nov_2025
+/dynamo_sept_2025
 /dynamo_aug_2025
 /dynamo_july_2025
 /festival_june_2025
